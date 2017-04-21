@@ -4,17 +4,17 @@ import {render} from 'react-dom';
 
 let PLAYERS = [
   {
-    name: 'Sofian Mourabit',
+    name: 'Sofian',
     score: 30,
     id: 1,
   },
   {
-    name: 'Ilse De Pourcq',
+    name: 'Ilse',
     score: 29,
     id: 2,
   },
   {
-    name: 'Gip',
+    name: 'Aiden',
     score: 40,
     id: 3,
   },
